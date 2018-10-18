@@ -1,0 +1,23 @@
+/*
+* Cat Keane
+* Due Date 
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: blanchedalmond;
+    color:dimgray;
+    font-family:"Georgia"
+}
+
+img{
+    height:200px;
+}
